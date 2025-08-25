@@ -4,4 +4,4 @@ issue_templates:
     description: "Create a User Story in the system."
     title: "[User Story]: "
     labels: ["User Story"]
-    body: "./ISSUE_TEMPLATE/user-story.md"
+    body: ".github/ISSUE_TEMPLATE/user-story.md"
