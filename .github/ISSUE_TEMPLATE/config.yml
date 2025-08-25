@@ -1,0 +1,7 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: "User Story"
+    description: "Create a User Story in the system."
+    title: "[User Story]: "
+    labels: ["User Story"]
+    body: "./ISSUE_TEMPLATE/user-story.md"
