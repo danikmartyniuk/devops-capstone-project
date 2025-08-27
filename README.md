@@ -1,6 +1,6 @@
 # DevOps Capstone Template
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/{owner}/{repo}/CI?label=build)
+![Build Status](https://github.com/danikmartyniuk/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
